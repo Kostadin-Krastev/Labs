@@ -1,0 +1,20 @@
+How to remove repository with git:
+- entering folder repository: 
+    cd folder name
+- viewing files inside the folder: 
+    ls -lrt
+- removing folder: 
+    rm -r name of the folder
+when a message arrives:
+    rm: remove write-protected regular file 'test/.git/objects/pack/pack-017b09d4c63230035198d3eab137bad6ecfc0e1d.pack'?
+
+    type y or yes
+
+
+Folding elements in VSCode shortcut:
+Fold (Ctrl+Shift+[) folds the innermost uncollapsed region at the cursor. Unfold (Ctrl+Shift+]) unfolds the collapsed region at the cursor. 
+Toggle Fold (Ctrl+K Ctrl+L) folds or unfolds the region at the cursor.
+
+boxsizing
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
